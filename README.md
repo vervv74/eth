@@ -1,2 +1,3 @@
 # eth
+<<<<<<< HEAD
 new
