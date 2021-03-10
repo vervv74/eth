@@ -1,0 +1,23 @@
+{
+  "name": "MyWallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/test-helpers": "^0.5.10"
+  },
+  "devDependencies": {
+    "fs-extra": "^8.1.0",
+    "grunt-cache-bust": "^1.7.0"
+  }
+}
